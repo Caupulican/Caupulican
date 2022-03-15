@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Caupulican's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caupulican&hide=contribs,prs&count_private=true&show_icons=true))
-)]
+![Caupulican's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caupulican&hide=contribs,prs&count_private=true&show_icons=true)
 
 <!--
 **Caupulican/Caupulican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
